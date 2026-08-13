@@ -318,4 +318,4 @@ module_hid_driver(hyperx_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Idan Koblik <me@idank.dev>");
-MODULE_DESCRIPTION("HID driver for Hyeerx devices");
+MODULE_DESCRIPTION("HID driver for Hyperx devices");
